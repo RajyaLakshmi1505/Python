@@ -1,0 +1,2 @@
+You are given with a comma seperated natural numbers 1 to 10 print only even numbers
+7.3:-You are given with a space seperated integer list find no.of even and odd elements in a given list
