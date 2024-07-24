@@ -1,2 +1,1 @@
-Take a list and count even and odd number
-Take a space seperated input from a user and print alternate elements
+
