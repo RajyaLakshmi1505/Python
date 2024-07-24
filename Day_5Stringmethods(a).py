@@ -1,0 +1,12 @@
+#String methods: is alpha,is digit, is alum, is upper, is lower, conver to upper case, convert to lower case,title case, swap case.
+str1=input()
+#print(str1.upper())
+#print(str1.lower())
+#print(str1.title())
+#print(str1.swapcase())
+print(str1.capitalize())
+print(str1.strip())
+#print(str1.replace('a','z'))
+#print(str1.split())
+#print(str1.split('a'))
+#print(len(str1))
