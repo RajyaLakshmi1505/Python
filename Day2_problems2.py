@@ -10,7 +10,7 @@ for i in range(n):
     list1.append(i+1)
     sum=sum+i
 print(sum)
-#print(*list1)
+print(*list1)
      
 
  
